@@ -1,2 +1,0 @@
-# normalhub
-only normal hub
